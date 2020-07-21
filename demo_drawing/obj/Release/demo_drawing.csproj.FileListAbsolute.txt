@@ -1,0 +1,9 @@
+E:\demo\demo_snake\demo_drawing\bin\Release\demo_drawing.exe.config
+E:\demo\demo_snake\demo_drawing\bin\Release\demo_drawing.exe
+E:\demo\demo_snake\demo_drawing\bin\Release\demo_drawing.pdb
+E:\demo\demo_snake\demo_drawing\obj\Release\demo_drawing.frmMain.resources
+E:\demo\demo_snake\demo_drawing\obj\Release\demo_drawing.Properties.Resources.resources
+E:\demo\demo_snake\demo_drawing\obj\Release\demo_drawing.csproj.GenerateResource.Cache
+E:\demo\demo_snake\demo_drawing\obj\Release\demo_drawing.exe
+E:\demo\demo_snake\demo_drawing\obj\Release\demo_drawing.pdb
+E:\demo\demo_snake\demo_drawing\obj\Release\demo_drawing.csprojResolveAssemblyReference.cache

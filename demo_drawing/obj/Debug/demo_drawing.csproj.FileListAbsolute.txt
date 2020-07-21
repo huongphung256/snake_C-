@@ -1,0 +1,38 @@
+E:\Lap trinh windows\demo_drawing\demo_drawing\bin\Debug\demo_drawing.exe.config
+E:\Lap trinh windows\demo_drawing\demo_drawing\bin\Debug\demo_drawing.exe
+E:\Lap trinh windows\demo_drawing\demo_drawing\bin\Debug\demo_drawing.pdb
+E:\Lap trinh windows\demo_drawing\demo_drawing\obj\Debug\demo_drawing.Properties.Resources.resources
+E:\Lap trinh windows\demo_drawing\demo_drawing\obj\Debug\demo_drawing.csproj.GenerateResource.Cache
+E:\Lap trinh windows\demo_drawing\demo_drawing\obj\Debug\demo_drawing.exe
+E:\Lap trinh windows\demo_drawing\demo_drawing\obj\Debug\demo_drawing.pdb
+E:\Lap trinh windows\demo_drawing\demo_drawing\obj\Debug\demo_drawing.csprojResolveAssemblyReference.cache
+E:\Lap trinh windows\demo_drawing\demo_drawing\obj\Debug\demo_drawing.frmDay.resources
+E:\demo\demo_snake\demo_drawing\bin\Debug\demo_drawing.exe.config
+E:\demo\demo_snake\demo_drawing\obj\Debug\demo_drawing.exe
+E:\demo\demo_snake\demo_drawing\obj\Debug\demo_drawing.pdb
+E:\demo\demo_snake\demo_drawing\bin\Debug\demo_drawing.exe
+E:\demo\demo_snake\demo_drawing\bin\Debug\demo_drawing.pdb
+E:\demo\demo_snake\demo_drawing\obj\Debug\demo_drawing.csprojResolveAssemblyReference.cache
+E:\demo\demo_snake\demo_drawing\obj\Debug\demo_drawing.Properties.Resources.resources
+E:\demo\demo_snake\demo_drawing\obj\Debug\demo_drawing.csproj.GenerateResource.Cache
+E:\demo\demo_snake\demo_drawing\obj\Debug\demo_drawing.frmMain.resources
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\bin\Debug\demo_drawing.exe.config
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\bin\Debug\demo_drawing.exe
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\bin\Debug\demo_drawing.pdb
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.frmMain.resources
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.Properties.Resources.resources
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.exe
+C:\Users\Admin\Desktop\demo_snake\demo_drawing\obj\Debug\demo_drawing.pdb
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\bin\Debug\demo_drawing.exe.config
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\bin\Debug\demo_drawing.exe
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\bin\Debug\demo_drawing.pdb
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.frmMain.resources
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.Properties.Resources.resources
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.exe
+C:\Users\ACER\Desktop\ltnc\demo_snake\demo_drawing\obj\Debug\demo_drawing.pdb
